@@ -7,9 +7,10 @@ This apllication contents timeblocks with your notes to fit your daily schedule.
 
 # Mock-up:
 This image shows a fully functional application. 
-Develop/Images/Screen Shot 2022-11-28 at 10.23.18 PM.png
+daily-planner-screenshot.png
 
 # Links to Application:
-URL:
+URL: https://konnyph.github.io/daily-planner/
 
 Github:
+https://github.com/konnyph/daily-planner.git
